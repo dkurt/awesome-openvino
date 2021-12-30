@@ -1,4 +1,4 @@
-# Awesome OpenVINO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome OpenVINO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome OpenVINO](https://img.shields.io/badge/Awesome-OpenVINO-FC60A8?logo=awesomelists)](https://github.com/dkurt/awesome-openvino)
 
 A list of awesome open source projects that use [OpenVINO](https://github.com/openvinotoolkit/openvino)
 
@@ -21,8 +21,9 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 | [Optimum](https://github.com/dkurt/optimum-openvino) | Hugging Face Transformers extension including [NNCF](https://github.com/openvinotoolkit/nncf) integration |
 | :construction: [RASA](https://github.com/RasaHQ/rasa/pull/9826) | Create chatbots and voice assistants |
 
-## Other projects
+## 3D
 
 | Repository | Description | 
 |---|---|
 | [Open3D-ML](https://github.com/isl-org/Open3D-ML) | Point cloud semantic segmentation and object detection |
+| [3D Multi-person Pose Estimation](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) | Real-time 3D Multi-person Pose Estimation Demo |
