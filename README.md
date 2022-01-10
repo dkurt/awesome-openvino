@@ -27,3 +27,11 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 |---|---|
 | [Open3D-ML](https://github.com/isl-org/Open3D-ML) | Point cloud semantic segmentation and object detection |
 | [3D Multi-person Pose Estimation](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) | Real-time 3D Multi-person Pose Estimation Demo |
+
+
+## Deployment
+
+| Repository | Description | 
+|---|---|
+| [MMDeploy](https://github.com/open-mmlab/mmdeploy) | OpenMMLab Model Deployment Framework |
+| [OpenVINO Model Server](https://github.com/openvinotoolkit/model_server) | A scalable inference server for OpenVINO models |
