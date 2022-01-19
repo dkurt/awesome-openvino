@@ -9,7 +9,7 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 | [Google DeepVariant](https://github.com/google/deepvariant/) | Variant calling, genomics |
 | [FAST](https://github.com/smistad/FAST) + [FAST-Pathology](https://github.com/AICAN-Research/FAST-Pathology) | Medical image processing, digital pathology |
 | [QuPath](https://github.com/dkurt/qupath-extension-openvino) | Bioimage analysis & digital pathology |
-| :construction: [Oxford Nanopore Bonito](https://github.com/nanoporetech/bonito/pull/52) | Basecaller for Oxford Nanopore Reads, genomics |
+| [Oxford Nanopore Bonito](https://github.com/nanoporetech/bonito) | Basecaller for Oxford Nanopore Reads, genomics |
 | :construction: [DIRECT](https://github.com/NKI-AI/direct/pull/134) | MRI reconstruction |
 | :construction: [Cellpose](https://github.com/MouseLand/cellpose/pull/370) | Cell and nucleus segmentation |
 | :construction: [DeepChem](https://github.com/deepchem/deepchem/pull/2332) | Drug discovery, materials science, quantum chemistry, and biology |
