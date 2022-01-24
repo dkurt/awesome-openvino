@@ -35,3 +35,9 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 |---|---|
 | [MMDeploy](https://github.com/open-mmlab/mmdeploy) | OpenMMLab Model Deployment Framework |
 | [OpenVINO Model Server](https://github.com/openvinotoolkit/model_server) | A scalable inference server for OpenVINO models |
+
+## Compilers / Optimization Toolkits
+
+| Repository | Description | 
+|---|---|
+| [Adlik](https://github.com/Adlik) | Toolkit for accelerating DL inference on cloud & embedded instances | 
