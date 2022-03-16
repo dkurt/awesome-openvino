@@ -13,6 +13,8 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 | :construction: [DIRECT](https://github.com/NKI-AI/direct/pull/134) | MRI reconstruction |
 | :construction: [Cellpose](https://github.com/MouseLand/cellpose/pull/370) | Cell and nucleus segmentation |
 | :construction: [DeepChem](https://github.com/deepchem/deepchem/pull/2332) | Drug discovery, materials science, quantum chemistry, and biology |
+| :construction: [GaNDLF](https://github.com/CBICA/GaNDLF/pull/312) | A generalizable application framework for segmentation, regression, and classification |
+| :construction: [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut/pull/1686) | Markerless pose estimation of user-defined features for all animals incl. humans |
 
 ## Natural Language Processing
 
