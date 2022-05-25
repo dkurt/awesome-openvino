@@ -34,7 +34,7 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 
 | Repository | Description | 
 |---|---|
-| [ros_openvino_toolkit](https://github.com/intel/ros_openvino_toolkit) | ROS-adaptered runtime framework of neural network which quickly deploys applications and solutions for vision inference |
+| [ros_openvino_toolkit](https://github.com/intel/ros_openvino_toolkit) | ROS-adaptered runtime framework of NNs which quickly deploys applications and solutions for vision inference |
 | [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) | ROS2-adaptered runtime framework of neural network which quickly deploys applications and solutions for vision inference |
 
 
