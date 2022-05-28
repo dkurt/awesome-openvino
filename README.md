@@ -30,6 +30,13 @@ A list of awesome open source projects that use [OpenVINO](https://github.com/op
 | [Open3D-ML](https://github.com/isl-org/Open3D-ML) | Point cloud semantic segmentation and object detection |
 | [3D Multi-person Pose Estimation](https://github.com/Daniil-Osokin/lightweight-human-pose-estimation-3d-demo.pytorch) | Real-time 3D Multi-person Pose Estimation Demo |
 
+## Robotics
+
+| Repository | Description | 
+|---|---|
+| [ros_openvino_toolkit](https://github.com/intel/ros_openvino_toolkit) | ROS-adaptered runtime framework of NNs which quickly deploys applications and solutions for vision inference |
+| [ros2_openvino_toolkit](https://github.com/intel/ros2_openvino_toolkit) | ROS2-adaptered runtime framework of NNs which quickly deploys applications and solutions for vision inference |
+
 
 ## Deployment
 
